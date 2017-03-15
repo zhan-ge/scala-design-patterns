@@ -3,6 +3,8 @@
 - [前言](README.md)
 - [设计模式分类与环境搭建](patterns-and-environment/patterns-and-environment.md)
   - [设计模式](patterns-and-environment/design-patterns.md)
+  - [设计模式分类](patterns-and-environment/design-patterns-categories.md)
+  - [如何选择设计模式](how-to-choose.md)
 - [Traits and Mixin Compositions]()
 - [Unification]()
 - [Abstract and Self Types]()
