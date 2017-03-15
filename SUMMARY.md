@@ -1,7 +1,8 @@
 # Summary
 
 - [前言](README.md)
-- [The Design Patterns Out There and Setting Up Your Environment]()
+- [设计模式分类与环境搭建](patterns-and-environment/patterns-and-environment.md)
+  - [设计模式](patterns-and-environment/design-patterns.md)
 - [Traits and Mixin Compositions]()
 - [Unification]()
 - [Abstract and Self Types]()
