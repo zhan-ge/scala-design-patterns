@@ -6,6 +6,8 @@
   - [设计模式分类](patterns-and-environment/design-patterns-categories.md)
   - [如何选择设计模式](patterns-and-environment/how-to-choose.md)
 - [特质与混入组合](traits-and-mixin-compositions/traits-and-mixin.md)
+  - [特质](traits-and-mixin-compositions/traits.md)
+  - [混入组合](traits-and-mixin-compositions/mixin-compositions.md)
 - [Unification]()
 - [Abstract and Self Types]()
 - [Aspect-Oriented Programming and Components]()
