@@ -8,6 +8,7 @@
 - [特质与混入组合](traits-and-mixin-compositions/traits-and-mixin.md)
   - [特质](traits-and-mixin-compositions/traits.md)
   - [混入组合](traits-and-mixin-compositions/mixin-compositions.md)
+  - [多重继承](traits-and-mixin-compositions/multiple-inheritance.md)
 - [Unification]()
 - [Abstract and Self Types]()
 - [Aspect-Oriented Programming and Components]()
