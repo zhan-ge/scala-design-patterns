@@ -17,6 +17,7 @@
   - [模块与对象](unification/modules-and-objects.md)
 - [抽象与自类型](abstract-and-self-types/abstract-and-self-types.md)
   - [泛型与抽象类型](abstract-and-self-types/abstract-types.md)
+  - [多态的三种形式](abstract-and-self-types/polymorphism.md)
 - [Aspect-Oriented Programming and Components]()
 - [Creational Design Patterns]()
 - [Structural Design Patterns]()
