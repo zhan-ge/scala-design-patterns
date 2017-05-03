@@ -21,6 +21,7 @@
   - [自类型](abstract-and-self-types/self-type.md)
 - [AOP 与组件](aop-and-components/aop-and-components.md)
   - [实例](aop-and-components/chapter-case-example.md)
+  - [组件](aop-and-components/components.md)
 - [Creational Design Patterns]()
 - [Structural Design Patterns]()
 - [Behavioral Design  Patterns – Part 1]()
