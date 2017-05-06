@@ -16,7 +16,7 @@
 
 我们期望代码是模块化的，因此有必要对功能进行拆分。下面的图示展示了机器人的雏形以及各组件间的关系：
 
-![cook-robot](assets/cook-robot.jpg)
+![cook-robot](/assets/cook-robot.jpg)
 
 首先让我们给不同的组件定义接口：
 
